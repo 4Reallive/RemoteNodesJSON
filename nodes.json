@@ -1,0 +1,16 @@
+{
+  "nodes": [
+    {
+      "name": "CN Knight Club",
+      "url": "celc.cnknight.club",
+      "port": 18236,
+      "ssl": false
+    },    
+    {
+      "name": "Crypto9Coin",
+      "url": "crypto9coin.cf",
+      "port": 8236,
+      "ssl": false
+    }
+  ]
+}
